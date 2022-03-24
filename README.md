@@ -15,6 +15,9 @@ Progetti Corso DataScience 2021-2022
 #### (Social Network Analysis - NETWORK X) 
 - https://networkrepository.com/fb-pages-politician.php (Social Network Analysis - NETWORK X) 
 
+#### Relazione 
+- Relazione_DataScience.pdf [Relazione](https://github.com/Denzel18/DataScience-21-22/blob/c88cfc04f9b7f69d9767ec289b2d734e05e839ab/Relazione_DataScience.pdf) 
+
 # Progetto Sviluppato da ... 
 - E. Incicco
 - A. Giacomini 
